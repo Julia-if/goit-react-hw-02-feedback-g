@@ -2,7 +2,7 @@
     "name": "goit-react-hw-02-feedback-g",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Julia-if.github.io/goit-react-hw-02-feedback/",
+    "homepage": "https://Julia-if.github.io/goit-react-hw-02-feedback-g/",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.3",
         "@testing-library/react": "^12.1.4",
